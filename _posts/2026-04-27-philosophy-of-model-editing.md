@@ -35,14 +35,14 @@ toc:
   - name: Introduction
   - name: What Is “Knowledge” Inside a Neural Network?
   - name: What Actually Changes During a Model Edit?
-      subsections:
+    subsections:
       - name: Local Micro-Manifold Rewrites
       - name: Distributed Relational Shifts
   - name: Does Editing Introduce Inconsistency?
   - name: Can a Neural Network Ever Truly “Forget”?
   - name: The Ontology of Edited Models - Does Editing  Change Identity?
   - name: Why This Matters - Beyond Bug-Fixes
-      subsections:
+    subsections:
       - name: Safety
       - name: Alignment
       - name: Interpretability
