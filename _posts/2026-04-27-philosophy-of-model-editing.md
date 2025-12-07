@@ -71,28 +71,20 @@ _styles: >
   }
 ---
 
-Note: please use the table of contents as defined in the front matter rather than the traditional markdown styling.
 
 ## Introduction
 
 Large language models can now be adjusted. They can be corrected after deployment, fixed for safety, or guided towards new behaviors without needing complete retraining. This raises a fundamental question that spans machine learning, knowledge theory, and philosophy:
-
 What does it mean to change knowledge within a neural network?
-
 Traditional software updates a record in a database. Humans change beliefs through reasoning, feelings, and contradictions. Neural networks do neither.
-
 They do not store symbols, explicit beliefs, or lookup tables. Instead, knowledge is spread out, intertwined, and geometric.
 
 So when we edit a model : 
 
 - Are we rewriting memory? 
-
 - Are we distorting the shape of meaning itself? 
-
 - Is a fact a localized change or a global guideline? 
-
 - Can a neural network truly forget?
-
 - And if we reshape enough knowledge, does the model’s identity shift?
 
 This blog post provides a framework for these questions. It is based on the technical features of neural networks but also invites philosophical reflection.
